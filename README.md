@@ -1,2 +1,2 @@
-# demo
+# Patterns
 A DCode demo project
